@@ -1,4 +1,4 @@
-#Arduino Microcontroller#
+#Arduino Microcontroller Sketches#
 *Example .ino code files for basic to intermediate level control of the Arduino microcontroller*
 
 **Requires: Arduino v1.0+**
