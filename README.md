@@ -1,14 +1,6 @@
 #Arduino Microcontroller#
 *Example .ino code files for basic to intermediate level control of the Arduino microcontroller*
 
-
-
-**Author: Fleming Slone [naz]**
-
-**Date: 05.15.13**
-
-**Version: 0.1.01**
-
 **Requires: Arduino v1.0+**
 
 
